@@ -9,5 +9,5 @@ Android app - Java.
 
 Demo:
 
-https://github.com/m4ccim/CloudDesktop/assets/34244452/ab698739-1b31-4509-adc3-eaec25824aec
+https://github.com/niechaiev/CloudDesktop/assets/34244452/ab698739-1b31-4509-adc3-eaec25824aec
 
